@@ -1,0 +1,15 @@
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\bin\Debug\net8.0\e-commerce.exe
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\bin\Debug\net8.0\e-commerce.deps.json
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\bin\Debug\net8.0\e-commerce.runtimeconfig.json
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\bin\Debug\net8.0\e-commerce.dll
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\bin\Debug\net8.0\e-commerce.pdb
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\obj\Debug\net8.0\e-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\obj\Debug\net8.0\e-commerce.AssemblyInfoInputs.cache
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\obj\Debug\net8.0\e-commerce.AssemblyInfo.cs
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\obj\Debug\net8.0\e-commerce.csproj.CoreCompileInputs.cache
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\obj\Debug\net8.0\e-commerce.sourcelink.json
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\obj\Debug\net8.0\e-commerce.dll
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\obj\Debug\net8.0\refint\e-commerce.dll
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\obj\Debug\net8.0\e-commerce.pdb
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\obj\Debug\net8.0\e-commerce.genruntimeconfig.cache
+C:\Users\raemn\Desktop\e-commerce\.vs\e-commerce\e-commerce\obj\Debug\net8.0\ref\e-commerce.dll
