@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\raemn\\Desktop\\e-commerce\\.vs\\e-commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91DAA0CC-7642-4D75-ABFF-79409B8C4C6B}|e-commerce\\e-commerce.csproj|c:\\users\\raemn\\desktop\\e-commerce\\.vs\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91DAA0CC-7642-4D75-ABFF-79409B8C4C6B}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raemn\\Documents\\GitHub\\yazilim_uzmanligi_21_Aralilk_2024\\\u00F6devler\\csharp\\\u00F6dev-5\\\u00D6mer Kafkas\\Homework_5\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\raemn\\Desktop\\e-commerce\\.vs\\e-commerce\\e-commerce\\Program.cs",
-              "RelativeDocumentMoniker": "e-commerce\\Program.cs",
-              "ToolTip": "C:\\Users\\raemn\\Desktop\\e-commerce\\.vs\\e-commerce\\e-commerce\\Program.cs",
-              "RelativeToolTip": "e-commerce\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\raemn\\Documents\\GitHub\\yazilim_uzmanligi_21_Aralilk_2024\\\u00F6devler\\csharp\\\u00F6dev-5\\\u00D6mer Kafkas\\Homework_5\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\GitHub\\yazilim_uzmanligi_21_Aralilk_2024\\\u00F6devler\\csharp\\\u00F6dev-5\\\u00D6mer Kafkas\\Homework_5\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\raemn\\Documents\\GitHub\\yazilim_uzmanligi_21_Aralilk_2024\\\u00F6devler\\csharp\\\u00F6dev-5\\\u00D6mer Kafkas\\Homework_5\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\GitHub\\yazilim_uzmanligi_21_Aralilk_2024\\\u00F6devler\\csharp\\\u00F6dev-5\\\u00D6mer Kafkas\\Homework_5\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T09:00:09.14Z",
+              "WhenOpened": "2025-02-02T10:50:27.813Z",
               "EditorCaption": ""
             }
           ]
