@@ -2,5 +2,6 @@
 ## Sub title
 E-Commerce Web App for Admin Panel
 <p>
-<img src="https://github.com/hakanozer/magazaYonetim/blob/master/Proje%20G%C3%B6r%C3%BCnt%C3%BCleri/SuperAdminEkrani.png" width="250"/>
+<img src="https://github.com/furkanisinak/e-commerce/blob/master/images/2.png" width="250"/> </br> 
+<img src="https://github.com/furkanisinak/e-commerce/blob/master/images/1.jpg" width="250"/>
 </p>
